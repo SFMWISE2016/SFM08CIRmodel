@@ -12,9 +12,4 @@ Author: Li Mingyang, Guo Junjie, Wu Heyue, Yang Buhan
 
 Submitted: Wed, July 20 2016 by Li Mingyang
 
-Datafile: yield_CN1year0616.txt : 'text file for the 1-year yield to maturity of China's treasury bond.'
-
-Input: yield_CN1year0616 : 'text file for the 1-year yield to maturity of China's treasury bond.'
-
-Output: 'MLE estimates of the parameters of the CIR model using 1-year yield to maturity of China's treasure bond; the simulated short rate series (figure1); the term structure given different short rate (figure2, figure3 and figure4).'
 
