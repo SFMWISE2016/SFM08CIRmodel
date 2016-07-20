@@ -149,5 +149,4 @@ Bondprice = exp(A - B * r3)
 termStr = -1/tau * log(Bondprice)
 
 p3 = ggplot(data = NULL, aes(x = tau, y = termStr)) + geom_line()
-p3 + xlab("time to maturity") + ylab("yield") + ggtitle(expression(paste("Term Structure when b < r < ", 
-    Y[lim]))) 
+p3 + xlab("time to maturity") + ylab("yield") + ggtitle("Term Structure when b < r") 
