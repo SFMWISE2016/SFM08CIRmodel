@@ -1,4 +1,4 @@
-Name of Quantlet: SFM06CIRmodel
+Name of Quantlet: SFM08CIRmodel
 
 Published in: Statistics of Financial Markets
 
